@@ -3,7 +3,5 @@ PRODUCT_PACKAGES += \
   DRMInfo \
   ESFileExplorer \
   MaterialTerminal \
-  Plex \
   SideloadLauncher \
-  VLC \
   WIFIADB \
